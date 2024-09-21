@@ -8,11 +8,12 @@
   },
   "authors": [
     {
-      "name": "dang",
+      "name": "trinhdangnhat.dev",
       "email": "trinhdangnhat@gmail.com"
     }
   ],
   "require": {
     "php": ">=8.0"
-  }
+  },
+  "license": "proprietary"
 }
