@@ -1,16 +1,18 @@
 {
-    "name": "dang/demo-franken",
-    "description": "testing packagist for php use franken",
-    "autoload": {
-        "psr-4": {
-            "Dang\\DemoFranken\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "dang",
-            "email": "trinhdangnhat@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "dang/demo-franken",
+  "description": "testing packagist for php use franken",
+  "autoload": {
+    "psr-4": {
+      "Dang\\DemoFranken\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "dang",
+      "email": "trinhdangnhat@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
 }
