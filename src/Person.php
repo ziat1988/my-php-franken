@@ -1,5 +1,5 @@
 <?php
-namespace Dang\DemoFranken;
+namespace DangDev\DemoFranken;
 class Person
 {
     public function __construct(private int $age, private string $name)

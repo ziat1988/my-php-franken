@@ -1,9 +1,9 @@
 {
-  "name": "dang/demo-franken",
+  "name": "dang_dev/demo-franken",
   "description": "testing packagist for php use franken",
   "autoload": {
     "psr-4": {
-      "Dang\\DemoFranken\\": "src/"
+      "DangDev\\DemoFranken\\": "src/"
     }
   },
   "authors": [

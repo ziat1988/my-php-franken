@@ -1,6 +1,6 @@
 <?php
 require __DIR__ . "/vendor/autoload.php";
-use Dang\DemoFranken\Person;
+use DangDev\DemoFranken\Person;
 
 $p = new Person(name: "dang", age: 36); // name parameter in php 8
 
